@@ -1,3 +1,5 @@
+//this is a new comment update for assignment 0 part 1
+
 const { Discord, MessageEmbed } = require("discord.js");
 
 module.exports = async function(msg, args) {
